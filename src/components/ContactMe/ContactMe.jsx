@@ -26,7 +26,7 @@ const ContactMe = () => {
                 </p>
               </div>
             </div>
-            <div class="col-lg-4 col-md-7">
+            {/* <div class="col-lg-4 col-md-7">
               <div class="work-togather-form">
                 <input
                   type="email"
@@ -36,14 +36,14 @@ const ContactMe = () => {
                   required=""
                 />
               </div>
-            </div>
-            <div class="col-lg-3 col-md-4">
+            </div> */}
+            {/* <div class="col-lg-3 col-md-4">
               <div class="work-togather-form-btn">
                 <button type="submit" class="sec-btn">
                   Subscribe Now
                 </button>
               </div>
-            </div>
+            </div> */}
           </div>
           <div className="contact-row">
             {contactsDetails &&
